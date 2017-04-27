@@ -11,5 +11,5 @@ Obs: As this is not running with malicious purposes, I didn't have the trouble t
 
 # Possible Coming Features
 - Finding a way to make the code auto run or the user to run it.
-- Writing the output of prints in a JSON and sending it back/somewhere, so the author can have a way to tranlate the desired file back.
+- ~~Writing the output of prints in a JSON and sending it back/somewhere, so the author can have a way to tranlate the desired file back.~~
 - A piece of code to, in some cases, change a file's location(or dir's location) to somewhere else. This would help in cases where only one file is located at a certain directory.
